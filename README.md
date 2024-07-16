@@ -1,6 +1,6 @@
-# Image Processing Application
+# Real-time Image Processor
 
-This is a simple image processing application developed using the Qt framework. It allows you to open and analyze images. The application can calculate the percentage of dark pixels, find the number of connected components (blobs), and determine the maximum blob area in the image.
+This is a image processing application developed using the Qt framework. It allows you to open and analyze images. The application can calculate the percentage of dark pixels, find the number of connected components (blobs), and determine the maximum blob area in the image.
 
 ## Prerequisites
 
