@@ -16,7 +16,7 @@ An image processing application designed to enhance Optical Character Recognitio
 
 - **Programming Language**: C++
 - **Framework**: Qt Framework (Qt Core, Qt Widgets, Qt Concurrent, Qt Multimedia)
-- **Database**: MySQL (modifiable)
+- **Database**: MySQL (modifiable to a No-SQL DB as well)
 
 ## Installation
 
