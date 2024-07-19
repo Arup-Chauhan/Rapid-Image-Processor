@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Qt-based image processing application designed to enhance Optical Character Recognition (OCR) accuracy in real-time. The application leverages asynchronous processing to efficiently analyze dark pixels, connected components, and maximum blob areas in parallel, maintaining a frame rate of 60 FPS.
+An image processing application designed to enhance Optical Character Recognition (OCR) accuracy in real-time. The application leverages asynchronous processing to efficiently analyze dark pixels, connected components, and maximum blob areas in parallel, maintaining a frame rate of 60 FPS.
 
 ## Features
 
@@ -16,7 +16,7 @@ This project is a Qt-based image processing application designed to enhance Opti
 
 - **Programming Language**: C++
 - **Framework**: Qt Framework (Qt Core, Qt Widgets, Qt Concurrent, Qt Multimedia)
-- **Database**: MySQL (modifiable)
+- **Database**: MySQL (modifiable to a No-SQL DB as well)
 
 ## Installation
 
