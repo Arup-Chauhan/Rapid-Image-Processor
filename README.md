@@ -1,4 +1,4 @@
-# Rapid Image Processing Application
+# Rapid Image Processor
 
 ## Overview
 
